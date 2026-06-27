@@ -1,0 +1,13 @@
+{
+  "itemGroup.thermodynamics": "Example Mod Tab",
+  "block.thermodynamics.example_block": "Example Block",
+  "item.thermodynamics.example_item": "Example Item",
+
+  "thermodynamics.configuration.title": "Thermodynamics Configs",
+  "thermodynamics.configuration.section.thermodynamics.common.toml": "Thermodynamics Configs",
+  "thermodynamics.configuration.section.thermodynamics.common.toml.title": "Thermodynamics Configs",
+  "thermodynamics.configuration.items": "Item List",
+  "thermodynamics.configuration.logDirtBlock": "Log Dirt Block",
+  "thermodynamics.configuration.magicNumberIntroduction": "Magic Number Text",
+  "thermodynamics.configuration.magicNumber": "Magic Number"
+}
